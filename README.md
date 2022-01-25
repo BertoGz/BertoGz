@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BertoGz
 - 👀 I’m interested in the architecture of apps + video games!
-- 🌱 I’m currently learning the back-end with nodeJS+ postgres,
+- 🌱 I currently build front-end apps, but am also learning the back-end with nodeJS + postgres
 - 💞️ I’m looking to collaborate on utility packages
 - 📫 How to reach me bertogzlx@gmail.com
 
