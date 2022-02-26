@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BertoGz
 - 👀 I’m interested in the architecture of apps + video games!
-- 🌱 I currently build front-end apps, but am also learning the back-end with nodeJS + postgres
-- 💞️ I’m looking to collaborate on utility packages
+- 🌱 I currently build apps on the front-end, but am also learning the back with Express + postgres + socket.io!
+- 💞️ I love working with React and javascript!
 - 📫 How to reach me bertogzlx@gmail.com
 
 <!---
