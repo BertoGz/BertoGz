@@ -2,7 +2,7 @@
 - 👀 I’m interested in the architecture of apps + video games!
 - 🌱 I will help you build applications that run on both the front / backend!
 - 🔨 Currently working on some exciting stuff with nodeJs/socket.io and react
-- 💞️ I'm always seeking to improve and hopefully on day be part of something great.
+- 💞️ I'm always seeking to improve and hopefully one day be part of something great.
 - 📫 How to reach me bertogzlx@gmail.com
 
 <!---
