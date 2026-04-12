@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BertoGz
-- 👀 I’m interested in the architecture of apps + video games!
+- 👀 Systems-focused developer
 - 🌱 I will help you build applications that run on both the front / backend!
 - 🔨 Currently working on some exciting stuff with nodeJs/socket.io and react
 - 💞️ I'm always seeking to improve and hopefully one day be part of something great.
